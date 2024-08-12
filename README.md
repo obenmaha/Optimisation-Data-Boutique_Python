@@ -9,7 +9,7 @@ Ce projet vise à optimiser la gestion des données d'une boutique de vin, Bottl
 - **Présentation** : Rapport final avec les analyses, recommandations et processus de nettoyage des données.
 
 ## Installation
-1. Clonez le dépôt : `git clone https://github.com/obenmaha/Optimisation-Data-Boutique.git`
+1. Clonez le dépôt : `git clone https://github.com/obenmaha/Optimisation-Data-Boutique_Python.git`
 2. Installez les dépendances nécessaires en fonction du notebook utilisé (R ou Python).
    - Pour Python : `pip install -r requirements.txt` (ajoutez un fichier `requirements.txt` si nécessaire).
    - Pour R : Installez les packages requis spécifiés dans le notebook.
